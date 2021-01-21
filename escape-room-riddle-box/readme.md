@@ -1,4 +1,4 @@
-# escaperooms
+# Escape room riddle box
 
 * Escape Room Riddle box by IO Llama
 * Learn more: http://iollama.com/
