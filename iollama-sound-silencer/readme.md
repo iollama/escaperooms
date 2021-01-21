@@ -5,7 +5,9 @@
  
 ABOUT
 -----
-This box makes loud human sounds stop. It does that by finding the exact phase of the soundwave, and they inverting it and sending it back at the source. Just kidding. This box detects loud continuous sounds (think neighbors having a party at midnight). When a loud continuous sound is detected, the box will start outputting an annoying sound of its own. Hopefully that will make the noisy party go away.
+This project started with some loud neighbors, and I had to find a way to tone the noise down. So I built a sound silencer
+
+This box makes loud human sounds stop. It does that by finding the exact phase of the soundwave, and then inverting it, and sending it back to the source. Just kidding. This box detects loud continuous sounds (think neighbors having a party at midnight). When a loud continuous sound is detected, the box will start outputting an annoying sound of its own. Hopefully, that will make the noisy party go away.
 
 USES / LIBRARIES:
 ----------------
